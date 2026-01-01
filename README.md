@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sakshi 👋🏻
+🎓 Electronics and Telecommunication
+--Aspiring Cybersecurity  Professional 
+🌱 Building a strong foundation in Cybersecurity, with a focus on Defensive Security and an interest in Ethical Hacking 
 
-<!--
-**Sakshi2070/Sakshi2070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills & Tools 🛠️
+-- Cybersecurity & Networking 
+• Kali Linux 
+• Networking Fundamentals
+• Nmap, Wireshark, Metasploit
 
-Here are some ideas to get you started:
+-- Programming & Development 
+• Python,C++
+• Frontend Developer 
+• UI/UX Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build strong foundation in cybersecurity
+- Gain hands-on experience with security tools
